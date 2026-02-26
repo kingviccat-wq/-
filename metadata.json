@@ -1,0 +1,5 @@
+{
+  "name": "门诊问诊信息登记表",
+  "description": "一个专业的门诊问诊信息登记系统，支持基本信息录入、既往史、现病史及红外测量数据记录。",
+  "requestFramePermissions": []
+}
